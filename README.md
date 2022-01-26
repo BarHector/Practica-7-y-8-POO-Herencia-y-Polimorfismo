@@ -13,4 +13,4 @@ Hay que aclarar que aunque se abarca el tema de herencia, no se explota dicha ca
 
 ARCHIVOS INCLUIDOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Se incluyen los archivos de texto, se incluyen todos los .java, .class, .jar, .zip y utilizados y entregados, así como los manuales de las prácticas.
+Se incluyen los archivos de texto .java, .class, .jar, .zip y utilizados y entregados, así como los manuales de las prácticas.
